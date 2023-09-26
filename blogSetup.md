@@ -102,6 +102,7 @@ bundle exec jekyll s
 ```
 - Create posts with date in _posts directory
 #github PAT 
+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
 
 ---
 - Update url and base_url in config yaml to get proper github pages deploy
