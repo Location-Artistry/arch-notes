@@ -218,3 +218,24 @@ w !sudo tee % >/dev/null
 sudo pacman -S chafa
 ```
 
+### #files #usb
+```bash
+sudo fdsik -l
+# list all partitions
+df
+# quick list of all disk blocks
+sudo mount -t vfat  /dev/mmcblk0p1 /media
+# seems to be method to mount sd card in arch
+lsblk
+# really nice way to show partitions 
+sudo dmesg|tail
+# recent os activity and disk mounting info!c
+sudo pacman -Scc
+# clears out entire cache, cleaned 4GB!
+sudo pacman -Rns $(pacman -Qtdq)
+# clears orphaned packages, .4 GB!
+rm -rf ~/.cache/*
+# clears user cache another .4 GB!
+
+```
+
