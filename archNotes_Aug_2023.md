@@ -236,6 +236,5 @@ sudo pacman -Rns $(pacman -Qtdq)
 # clears orphaned packages, .4 GB!
 rm -rf ~/.cache/*
 # clears user cache another .4 GB!
-
 ```
 
