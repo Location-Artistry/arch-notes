@@ -26,4 +26,27 @@
 
 #### Next Meeting Later in October
 
+## November 1st 2023
 
+#notes:
+- "Death Corridor"
+- West Main Accident
+
+Some opportunities for implementation of the Complete Streets Policy. 
+Difficulty with internal committment, policy developed in a vacuum. 
+In Staff trainings, workshops. Street Design manual also in need of an update.
+Metrics and design, look at the metrics of our CS Policy, how often do we
+report? 
+
+Clear metrics: crash numbers, injuries/deaths, air pollutions reduction
+sidewalks, bike lanes built,
+Last update in 1998, in need of a major update. IMAGINE KZOO 2035. 
+Multi-modal level of service, auto trips generated, policy update to City
+Comission for updated approval.   
+Only one committee in Joplin, MO for CS. Perhaps formalize the CSAC, make
+it an official committee of the city.   
+What is the process for adoption by the City?
+Is CSAC the mouthpiece for some of the new street design projects?
+We do not have counters for the bike lanes.    
+Horrendously bad road design of the past.  PR Firm hired to help advertise the
+road design issues.  Neighborhood representative

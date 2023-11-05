@@ -44,7 +44,6 @@ vim.filetype.add({
   }
 })
 ```
-
 Adding Telescope media files`
 
 ```bash

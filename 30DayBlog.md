@@ -73,4 +73,31 @@ pip install matplotlib
 pip install ipython #let's get some interactivity in the terminal!
 pip install pyqt5 #get visuals to show for matplotlib?
 # this works hooray! 
+```
+---
+### #10-26-2023
+Very cool stuff with the ipython plots in the terminal with python scripts.
+Reduces the need for using Jupyter notebooks in the terminal and on lightweight distros
+such as Arch Linux.  Also helps to cut eliminate VSCode once and for all!
+I haven't even installed it on this chromebook, not sure I've got the disk space
+or ram to make it work.  Installing several of the neovim Jupyter plugins never
+seemed to work anyway, and this is one of the key use cases for those plugins.
+
+```bash
+# better plots in qt5?
+pip install pyqtgraph
+```
+pyqtgraph doesn't seem great.  Just use standard plt and run ipython geo_scripts.py
+- PYQT5 is not very user friendly and matplotlib formatting doesn't affect the displayed plot
+- DIfficult APIs from the C binding, though it does work nice for a GUI application with interactivity
+- Cannot get geopandas to work with it at this point
+Let's try some other geopandas plotting options:
+pip install folium mapclassify
+
+https://github.com/interline-io/transitland-server/tree/main
+- OK working on the transitland API docs!
+- Been a bit tough to get the apikey parama working, but I think it;s good.
+
+
+
 
