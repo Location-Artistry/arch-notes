@@ -238,3 +238,9 @@ rm -rf ~/.cache/*
 # clears user cache another .4 GB!
 ```
 
+### #screenshot
+```bash
+import -window root ss.png
+import -window root -pause 3 ss.png #pause 3 sec before screenshot
+```
+

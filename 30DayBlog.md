@@ -98,6 +98,26 @@ https://github.com/interline-io/transitland-server/tree/main
 - OK working on the transitland API docs!
 - Been a bit tough to get the apikey parama working, but I think it;s good.
 
+Figured out how to take screenshot with arch: import etc...
+Also formatted the feeds.json with jq
+WMU paper on kalamazoo metro transit evaluation
+- https://wmich.edu/sites/default/files/attachments/u883/2016/4-4_Smith.pdf
+Random site with US GTFS feeds as GeoJSON!
+- https://gtfs.pro/en/usa/Kalamazoo-Metro-Transit/university-of-michigan
+- https://wmich.edu/transportationcenter/technical-reports
 
+---
+Quick fixing of autocomplete options with nvim-cmp.  
+Previously was <C-y> which was a horrible mapping!   
+Finally fixed it to use <CR> for select, and <C-j/k> to navigate!
 
+---
+#11-25-2023
+pip install pywidgets
+- having some success formatting folium map with routes, stops and service area.
+- Made a separate color route dict to assign colors based on route_long_name for routes & stops
+- Some strange mismatch between the colors in the map and the legend
+- Working to print to screen some more of the dataframe details, though all fields are truncated in ipython
+- This has been a challenge before, limiting the usability fof python data anlysis on the chormebook
+- Trying to install ipytwidgets to see if it can provide some additional output options.
 
