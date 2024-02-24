@@ -236,6 +236,8 @@ sudo pacman -Rns $(pacman -Qtdq)
 # clears orphaned packages, .4 GB!
 rm -rf ~/.cache/*
 # clears user cache another .4 GB!
+### THIS IS THE WAY TO MOUNT AN SD!
+sudo mount /dev/mmcblk0p1 . 
 ```
 
 ### #screenshot
@@ -243,4 +245,10 @@ rm -rf ~/.cache/*
 import -window root ss.png
 import -window root -pause 3 ss.png #pause 3 sec before screenshot
 ```
+
+### #audio
+```bash
+amixer set Master 100% #set volume at 100%
+```
+Working with a nice article to create proper keybinds here: https://www.ejmastnak.com/tutorials/arch/volume/
 
