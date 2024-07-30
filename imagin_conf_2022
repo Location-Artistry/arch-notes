@@ -1,0 +1,92 @@
+# IMAGIN CONF 2022
+# Monday 6th
+## Nearmap Aerial Imagery
+Cool stuff with 3D aerial imagery   
+3D vector buildings, can be generated from 3d aerial imagery
+Digital surface model - photogrametry   
+Ground is leveraging a DEM
+### Machine Learning & AI
+Began rolling out to market about 4 years ago.   
+Bexar County Apprasisal District - 242.8% return on investment - ROI.  
+
+## Kate Berg Streamlining Workflows EGLE
+- Drinking water concerns system
+- Power Automate
+- Cool way to make a Survey123 interactive via the Dashboard
+- Custom url via url parameters
+- Great user friendly system
+- StoryMaps Tips/Tricks
+- 60 Items to a Collection
+- Upload file enhancement, PowerPoint to create thumbnails
+- Nice to work in Winnie the Pooh!
+
+## Membership Meeting
+- Interest in Electronic Newsletter
+- Pro Dev Team Idea: New Developments in GeoSpatial
+- 
+
+## Postgres & PostGIS & GISSquirrel
+- Powerful indexing, similar to MicrosoftSQL Server
+- GISquirrel 0 ArcMap Add-on
+- ST_ functions
+- GIS Sq has a free trial
+- It just works in QGIS, but folks much more familiar with ESRI
+### How do we use it?
+- Setup => Linux server, Postgres, PostGIS, ArcMap,
+- Also using PyCharm quite a bit
+- Feature Service and Postgres are connected directly, edit and update feature service automatically
+### Update Buildings
+- ogr2ogr works very quickly
+- Using to GeoJSON conversion, but could use 
+### pg tileserv
+- 
+
+# Tuesday
+### ESRI Imagery Workflows
+- Imagery is a Foundational Source of Information
+- Web Services/Image Services
+- More happening on the client in AGOL
+- ArcGIS Living Atlas of the World
+- Sentinel-2 Views: all of the sentinel 2 images
+- NAIP, temporal & event imagery
+- World imagery wayback, automatically add to a map
+- Create and download imagery time animations
+### SaaS ArcGIS Image for AGOL
+- ArcGIS Image for ArcGIS Online
+- ArcGIS Image Dedicated: Azure, AWS,
+- ESRI managed Imagery Services for your S3 bucket
+- Hosting, analysis and streaming
+- Stream your imagery as tiled dynamic services
+- AGOL will automatically generate a mosaic from your images
+- Scalable imagery processing, specify credit limit per user
+- Upload and publish imagery, select the type of image service, add analytics, 150 raster function templates, 
+- Deep Learning workflows: AI team, analytics team, pre-made models, can customize,
+- Does require a special license to create the products
+### Map Viewer
+- New map viewer does not yet have imagery analysis tools
+- DONT EVER CLICK THIS BUTTON
+- Burn severity tool, opens a model builder type interface`
+- NAIP imagery time slider    
+- 1.2 credits per gig/month, will show credits first, 11 credits for Mackinac Is. building
+## MSP GIS
+- 100 Emergency Managers in the state, 83 counties and 17 municipalities
+- 136 Total members, one crator for eaxh municipality
+- Nice connections being made in the room!
+- Houghton relies substantially on trailways maintained by DNR, does damage assess for trails
+- Work with FEMA during Covid, need to agree with FEMA on damage assessment
+- StoryMap Collectionm nice simple thumbnails
+### Data COllection
+- Previously using paper field survey collections, GPS?  Camera?
+- Huge amount of work
+- Survey123 App, automatically transfers to the cloud
+- Manually entering GPS, sometimes using location gets messy, start from at HQ
+
+**Generate reports directly from Dashboard/Survey?   
+Leverage ArcGIS Python API for uploading?   
+Use imagery hosted from other sources?   
+Only consume credits when processing imagery? - YES**
+
+https://itsfoss.com/free-up-space-ubuntu-linux/
+
+
+Having a nice time at IMAGIN conf on Mackinac Mon/Tue, another teaser from 3D viewer last week, ground obstacles, MTR routes, and finally have the hub/spoke routes from Michigan Central that Craig was asking for: https://explore.d1nbgh6n8vk48b.amplifyapp.com/
